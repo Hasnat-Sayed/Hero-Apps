@@ -30,12 +30,12 @@ const Navbar = () => {
                 <Link className="flex gap-x-1 items-center justify-baseline" to="/">
                     <img className="size-10" src={logo} alt="Logo" />
                     <p className=" font-bold text-xl text-[#632EE3]">
-                        Hero.IO
+                        HERO.IO
                     </p>
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="gap-4 menu-horizontal px-1">
+                <ul className="gap-5 menu-horizontal px-1">
                     <li><NavLink to='/' className='font-semibold  text-[#000000e6] hover:text-[#632EE3] hover:border-b-2 hover:border-b-[#632EE3] transition ease-linear'>Home</NavLink></li>
                     <li><NavLink to='/apps' className='font-semibold  text-[#000000e6] hover:text-[#632EE3] hover:border-b-2 hover:border-b-[#632EE3] transition ease-linear'>Apps</NavLink></li>
                     <li><NavLink to='/installed' className='font-semibold  text-[#000000e6] hover:text-[#632EE3] hover:border-b-2 hover:border-b-[#632EE3] transition ease-linear'>Installation</NavLink></li>

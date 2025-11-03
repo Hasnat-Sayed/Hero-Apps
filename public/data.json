@@ -8,7 +8,7 @@
     "size": 84,
     "reviews": 21500,
     "ratingAvg": 4.6,
-    "downloads": 10000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 700 },
@@ -26,7 +26,7 @@
     "size": 62,
     "reviews": 20900,
     "ratingAvg": 4.5,
-    "downloads": 50000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1800 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png ",
     "title": "ShopNest",
     "companyName": "RetailHub Global",
     "id": 3,
@@ -44,7 +44,7 @@
     "size": 120,
     "reviews": 14500,
     "ratingAvg": 4.4,
-    "downloads": 20000000,
+    "downloads": 200,
     "ratings": [
       { "name": "1 star", "count": 800 },
       { "name": "2 star", "count": 1100 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/906/906377.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
     "title": "QuickRide",
     "companyName": "MobilityX Pvt Ltd",
     "id": 4,
@@ -62,7 +62,7 @@
     "size": 88,
     "reviews": 9700,
     "ratingAvg": 4.2,
-    "downloads": 15000000,
+    "downloads": 15,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 700 },
@@ -80,7 +80,7 @@
     "size": 96,
     "reviews": 18800,
     "ratingAvg": 4.8,
-    "downloads": 25000000,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 500 },
@@ -98,7 +98,7 @@
     "size": 165,
     "reviews": 32500,
     "ratingAvg": 4.7,
-    "downloads": 40000000,
+    "downloads": 400,
     "ratings": [
       { "name": "1 star", "count": 700 },
       { "name": "2 star", "count": 900 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
     "title": "EduQuest",
     "companyName": "Learnly Systems",
     "id": 7,
@@ -116,7 +116,7 @@
     "size": 72,
     "reviews": 13400,
     "ratingAvg": 4.6,
-    "downloads": 12000000,
+    "downloads": 12,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 600 },
@@ -134,7 +134,7 @@
     "size": 80,
     "reviews": 17400,
     "ratingAvg": 4.3,
-    "downloads": 18000000,
+    "downloads": 18,
     "ratings": [
       { "name": "1 star", "count": 700 },
       { "name": "2 star", "count": 800 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/906/906377.png",
     "title": "AirLink",
     "companyName": "SkyJet Digital",
     "id": 9,
@@ -152,7 +152,7 @@
     "size": 100,
     "reviews": 6800,
     "ratingAvg": 4.4,
-    "downloads": 9000000,
+    "downloads": 900,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 500 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/281/281764.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/833/833472.png",
     "title": "HealthSync",
     "companyName": "WellTrack Inc",
     "id": 10,
@@ -170,7 +170,7 @@
     "size": 75,
     "reviews": 8900,
     "ratingAvg": 4.5,
-    "downloads": 8000000,
+    "downloads": 800,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 400 },
@@ -188,7 +188,7 @@
     "size": 68,
     "reviews": 7600,
     "ratingAvg": 4.4,
-    "downloads": 12000000,
+    "downloads": 120,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 400 },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2817/2817945.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/1163/1163661.png",
     "title": "Weatherly",
     "companyName": "ClimateIQ",
     "id": 12,
@@ -206,7 +206,7 @@
     "size": 45,
     "reviews": 6100,
     "ratingAvg": 4.5,
-    "downloads": 9500000,
+    "downloads": 95,
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 350 },
@@ -216,15 +216,15 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3187/3187880.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/2913/2913133.png",
     "title": "SafeVault",
     "companyName": "SecureBit Labs",
-    "id": 14,
+    "id": 13,
     "description": "SafeVault is a secure password manager and digital locker that keeps all your logins, notes, and payment data safe. It uses 256-bit AES encryption, biometric login, and automatic password generation to strengthen your security. Cross-device sync ensures instant access without compromising privacy.",
     "size": 13,
     "reviews": 8700,
     "ratingAvg": 4.8,
-    "downloads": 5000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 200 },
@@ -242,7 +242,7 @@
     "size": 108,
     "reviews": 14500,
     "ratingAvg": 4.6,
-    "downloads": 11000000,
+    "downloads": 110,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 400 },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/2920/2920258.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/2541/2541988.png",
     "title": "NoteNest",
     "companyName": "Mindly Apps",
     "id": 15,
@@ -260,7 +260,7 @@
     "size": 59,
     "reviews": 5600,
     "ratingAvg": 4.7,
-    "downloads": 8000000,
+    "downloads": 80,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 300 },
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/3523/3523063.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
     "title": "PayEase",
     "companyName": "NeoFin Technologies",
     "id": 16,
@@ -278,7 +278,7 @@
     "size": 89,
     "reviews": 16800,
     "ratingAvg": 4.3,
-    "downloads": 22000000,
+    "downloads": 220,
     "ratings": [
       { "name": "1 star", "count": 900 },
       { "name": "2 star", "count": 1000 },
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
     "title": "FitSphere",
     "companyName": "ActiveMotion Apps",
     "id": 17,
@@ -296,7 +296,7 @@
     "size": 64,
     "reviews": 7200,
     "ratingAvg": 4.6,
-    "downloads": 9500000,
+    "downloads": 95,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name":"2 star", "count": 300 },
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/281/281769.png",
+    "image": "https://cdn-icons-png.flaticon.com/512/3208/3208799.png",
     "title": "Newsly",
     "companyName": "PulseMedia Ltd",
     "id": 18,
@@ -314,7 +314,7 @@
     "size": 55,
     "reviews": 9100,
     "ratingAvg": 4.4,
-    "downloads": 8000000,
+    "downloads": 80,
     "ratings": [
       { "name": "1 star", "count": 250 },
       { "name": "2 star", "count": 450 },
@@ -332,7 +332,7 @@
     "size": 42,
     "reviews": 6400,
     "ratingAvg": 4.7,
-    "downloads": 6000000,
+    "downloads": 600,
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 200 },
@@ -350,7 +350,7 @@
     "size": 115,
     "reviews": 12100,
     "ratingAvg": 4.6,
-    "downloads": 17000000,
+    "downloads": 17,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 500 },
