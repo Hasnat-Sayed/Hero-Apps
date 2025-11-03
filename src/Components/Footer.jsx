@@ -36,7 +36,7 @@ const Footer = () => {
             </footer>
 
             <div>
-                <p className="text-white text-center inter-font font-medium py-10 border-t border-gray-600">
+                <p className="text-white text-center font-medium py-10 border-t border-gray-600">
                     Copyright © 2025 - All right reserved
                 </p>
             </div>
