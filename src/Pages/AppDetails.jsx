@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import useApps from '../Hooks/useApps';
 import { useParams } from 'react-router';
 import Loading from '../Components/Loading';
@@ -7,18 +7,35 @@ import star from '../assets/icon-ratings.png'
 import download from '../assets/icon-downloads.png'
 import review from '../assets/icon-review.png'
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { matchingData, updateInstalled } from '../Utils/localStorage';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
 
     const { id } = useParams()
     const { apps, loading } = useApps()
+    const [appInstalled, setAppInstalled] = useState(false);
+
 
     const app = apps.find(p => p.id === Number(id))
+
+    useEffect(() => {
+        if (app) {
+            setAppInstalled(matchingData(app));
+        }
+    }, [app])
 
     if (loading) return <Loading></Loading>
 
     if (!app) {
         return <AppNotFound />;
+    }
+
+
+    const handleInstalled = (app) => {
+        updateInstalled(app)
+        toast.success(`${app.title} has been Installed Successful`);
+        setAppInstalled(true);
     }
 
     const { image, title, companyName, description, size, ratingAvg, downloads, reviews, ratings } = app || {};
@@ -64,9 +81,12 @@ const AppDetails = () => {
 
                     </div>
 
-                    <div className='bg-[#00D390] rounded-sm py-4 px-5 md:mx-0 mx-auto w-fit'>
-                        <button className="text-xl font-semibold text-white">
-                            Install Now ({size} MB)
+                    <div>
+                        <button onClick={() => handleInstalled(app)}
+                            className={`px-5 py-3.5  rounded text-white text-xl font-semibold cursor-pointer ${appInstalled ? "bg-gray-500" : "bg-[#00d390]"}`} disabled={appInstalled}>
+                            {appInstalled
+                                ? "Installed"
+                                : `Install Now (${size} MB)`}
                         </button>
                     </div>
 

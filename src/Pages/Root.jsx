@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar';
 import { Outlet, useLocation } from 'react-router';
 import Footer from '../Components/Footer';
 import Loading from '../Components/Loading';
+ import { ToastContainer} from 'react-toastify';
 
 
 const Root = () => {
@@ -18,16 +19,17 @@ const Root = () => {
     }, [location.pathname]);
 
     return (
-        <div className='container mx-auto w-full flex flex-col min-h-screen'>
+        <div className='container mx-auto flex flex-col min-h-screen'>
             <Navbar />
             {isNavigating ? (
                 <Loading></Loading>
             ) : (
-                <div className=' flex-1'>
+                <div className=' flex-1 bg-[#F5F5F5]'>
                     <Outlet />
                 </div>
             )}
             <Footer />
+            <ToastContainer />
         </div>
     );
 };
