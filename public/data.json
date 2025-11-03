@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+    "title": "SnapPix",
+    "companyName": "VisionVerse Ltd",
+    "id": 1,
+    "description": "SnapPix is a social sharing app where users can capture, edit, and share photos or short videos with friends. With advanced AI filters, face enhancement tools, and story highlights, it lets creators express themselves creatively while connecting with a global audience. Its focus on authenticity and visual storytelling makes it a favorite among influencers and casual users alike.",
+    "size": 84,
+    "reviews": 21500,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 12200 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "title": "ChatterBox",
+    "companyName": "Connectify Labs",
+    "id": 2,
+    "description": "ChatterBox allows users to connect instantly through texts, calls, and video messages. Featuring end-to-end encryption, chat themes, stickers, and multi-device sync, it’s built for modern conversations. Its lightweight design and low-data mode make it ideal for users in every corner of the world.",
+    "size": 62,
+    "reviews": 20900,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 7400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "title": "ShopNest",
+    "companyName": "RetailHub Global",
+    "id": 3,
+    "description": "ShopNest is an online marketplace offering a vast range of products from electronics to fashion. With personalized deals, seamless checkout, and fast delivery options, it redefines convenience in e-commerce. Sellers get detailed analytics and customers enjoy 24/7 support and cashback offers.",
+    "size": 120,
+    "reviews": 14500,
+    "ratingAvg": 4.4,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/906/906377.png",
+    "title": "QuickRide",
+    "companyName": "MobilityX Pvt Ltd",
+    "id": 4,
+    "description": "QuickRide provides reliable on-demand transport services, allowing users to book cabs, bikes, or carpool options in seconds. It features real-time GPS tracking, cashless payments, and driver ratings to ensure safe and efficient travel. Frequent users earn points and discounts on each trip.",
+    "size": 88,
+    "reviews": 9700,
+    "ratingAvg": 4.2,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "title": "TuneFlow",
+    "companyName": "AudioSpace Corp",
+    "id": 5,
+    "description": "TuneFlow is a streaming platform offering millions of songs, curated playlists, and personalized recommendations powered by AI. Users can create playlists, follow artists, and explore podcasts. Its sleek interface, offline mode, and mood-based music suggestions make it a top choice for audiophiles around the world.",
+    "size": 96,
+    "reviews": 18800,
+    "ratingAvg": 4.8,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 10100 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/552/552721.png",
+    "title": "StreamFlix",
+    "companyName": "VisionOne Media",
+    "id": 6,
+    "description": "StreamFlix delivers high-quality video entertainment from blockbuster movies to exclusive web series. Users can create watchlists, adjust streaming quality, and download content offline. AI-powered recommendations ensure you never miss trending shows that match your interests.",
+    "size": 165,
+    "reviews": 32500,
+    "ratingAvg": 4.7,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 19900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+    "title": "EduQuest",
+    "companyName": "Learnly Systems",
+    "id": 7,
+    "description": "EduQuest is an e-learning platform offering courses from leading universities and educators. With interactive quizzes, certification tracks, and peer discussions, it turns education into an engaging experience. Learners can track progress and earn verified certificates to boost their careers.",
+    "size": 72,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 7100 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png",
+    "title": "Foodio",
+    "companyName": "MealMate Pvt Ltd",
+    "id": 8,
+    "description": "Foodio connects users with nearby restaurants for dine-in, delivery, or takeaway. With real-time order tracking, ratings, and personalized meal suggestions, it brings convenience and variety to your table. Partnered eateries offer loyalty rewards for frequent users.",
+    "size": 80,
+    "reviews": 17400,
+    "ratingAvg": 4.3,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 7400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+    "title": "AirLink",
+    "companyName": "SkyJet Digital",
+    "id": 9,
+    "description": "AirLink simplifies flight booking and management. Compare airlines, track live flights, access digital boarding passes, and receive instant alerts for schedule changes. Frequent flyers benefit from points-based loyalty rewards and travel recommendations based on history.",
+    "size": 100,
+    "reviews": 6800,
+    "ratingAvg": 4.4,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/281/281764.png",
+    "title": "HealthSync",
+    "companyName": "WellTrack Inc",
+    "id": 10,
+    "description": "HealthSync is a health-tracking platform integrating with smartwatches and wearables to monitor heart rate, steps, sleep, and nutrition. It provides AI-driven insights to maintain fitness goals and alert users about irregular activity patterns for early prevention.",
+    "size": 75,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+    "title": "MailHawk",
+    "companyName": "SkyNet Digital",
+    "id": 11,
+    "description": "MailHawk is a smart email management app designed to streamline your inbox with AI-powered sorting, automatic categorization, and real-time reminders. It syncs seamlessly across devices, allows offline access, and integrates with calendars and task apps for productivity-driven workflows. With its focused inbox view, you can prioritize important messages and mute spam efficiently.",
+    "size": 68,
+    "reviews": 7600,
+    "ratingAvg": 4.4,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2817/2817945.png",
+    "title": "Weatherly",
+    "companyName": "ClimateIQ",
+    "id": 12,
+    "description": "Weatherly provides accurate real-time forecasts, radar maps, and climate alerts. It includes air quality monitoring, storm tracking, and sunrise/sunset times. The app adapts its theme based on your location’s conditions and sends push notifications during severe weather changes.",
+    "size": 45,
+    "reviews": 6100,
+    "ratingAvg": 4.5,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3187/3187880.png",
+    "title": "SafeVault",
+    "companyName": "SecureBit Labs",
+    "id": 14,
+    "description": "SafeVault is a secure password manager and digital locker that keeps all your logins, notes, and payment data safe. It uses 256-bit AES encryption, biometric login, and automatic password generation to strengthen your security. Cross-device sync ensures instant access without compromising privacy.",
+    "size": 13,
+    "reviews": 8700,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/724/724715.png",
+    "title": "WorkHub",
+    "companyName": "TaskFlow Systems",
+    "id": 14,
+    "description": "WorkHub is a team collaboration platform for managing projects, tasks, and communication in one space. It combines task boards, chat, file sharing, and video conferencing into a single dashboard. With real-time updates and role-based permissions, it keeps distributed teams aligned and productive.",
+    "size": 108,
+    "reviews": 14500,
+    "ratingAvg": 4.6,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2920/2920258.png",
+    "title": "NoteNest",
+    "companyName": "Mindly Apps",
+    "id": 15,
+    "description": "NoteNest is a productivity app for note-taking, journaling, and idea organization. It supports handwriting, voice notes, sketches, and markdown formatting. With cloud sync, folders, and smart search, you’ll never lose an idea. Users can share notes or collaborate on shared notebooks in real time, making it perfect for both students and professionals.",
+    "size": 59,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3523/3523063.png",
+    "title": "PayEase",
+    "companyName": "NeoFin Technologies",
+    "id": 16,
+    "description": "PayEase is a digital wallet and payment app that enables quick money transfers, bill payments, and QR-based transactions. It supports instant bank linking, cashback offers, and spending insights. The app’s multi-layer encryption ensures safe and seamless payments globally.",
+    "size": 89,
+    "reviews": 16800,
+    "ratingAvg": 4.3,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 7400 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
+    "title": "FitSphere",
+    "companyName": "ActiveMotion Apps",
+    "id": 17,
+    "description": "FitSphere blends fitness training, nutrition tracking, and community challenges. Users can set personal fitness goals, join workout programs, and monitor their progress with analytics and motivational reminders. The app also syncs with smart devices for holistic health insights.",
+    "size": 64,
+    "reviews": 7200,
+    "ratingAvg": 4.6,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name":"2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/281/281769.png",
+    "title": "Newsly",
+    "companyName": "PulseMedia Ltd",
+    "id": 18,
+    "description": "Newsly curates global and local headlines into a clean, distraction-free feed. With category filters, offline reading, and customizable sources, it keeps users informed without information overload. AI learns user interests over time to prioritize relevant stories.",
+    "size": 55,
+    "reviews": 9100,
+    "ratingAvg": 4.4,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name":"3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png",
+    "title": "TaskFlow",
+    "companyName": "FocusLabs",
+    "id": 19,
+    "description": "TaskFlow is a minimalistic to-do and productivity app that helps users organize their day efficiently. It includes priority tagging, reminders, recurring tasks, and calendar integration. With its clean interface and dark mode, it keeps you focused on what matters most.",
+    "size": 42,
+    "reviews": 6400,
+    "ratingAvg": 4.7,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+    "title": "CloudBox",
+    "companyName": "DataSync Co",
+    "id": 20,
+    "description": "CloudBox offers secure file storage, sharing, and synchronization across devices. It supports version history, offline access, and collaborative folders. The app uses end-to-end encryption and automatic backup scheduling, ensuring your documents, photos, and media are always safe and accessible anywhere.",
+    "size": 115,
+    "reviews": 12100,
+    "ratingAvg": 4.6,
+    "downloads": 17000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  }
+]

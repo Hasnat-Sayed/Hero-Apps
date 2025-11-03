@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui";
+a.active {
+  @apply text-[#632EE3] border-b-2 border-b-[#632EE3] transition ease-linear;
+}
