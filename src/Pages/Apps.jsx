@@ -1,18 +1,31 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import useApps from '../Hooks/useApps';
 import SingleCardApp from '../Components/SingleCardApp';
+import Loading from '../Components/Loading';
 
 const Apps = () => {
     const { apps, loading } = useApps()
+    const [isSearching, setIsSearching] = useState(false);
+    const [searchedApps, setSearchedApps] = useState(apps);
     const [search, setSearch] = useState('')
-    const term = search.trim().toLocaleLowerCase()
-    const searchedApps = term
-        ? apps.filter(app =>
-            app.title.toLocaleLowerCase().includes(term))
-        : apps
+
+    useEffect(() => {
+        setIsSearching(true);
+        const timer = setTimeout(() => {
+            const term = search.trim().toLowerCase();
+            const filtered = term
+                ? apps.filter(app =>
+                    app.title.toLowerCase().includes(term))
+                : apps;
+
+            setSearchedApps(filtered);
+            setIsSearching(false);
+        }, 300);
+        return () => clearTimeout(timer);
+    }, [search, apps]);
 
     return (
-        <div className='bg-[#F5F5F5] px-4 lg:px-20 py-4 md:py-8 lg:py-12'>
+        <div className='bg-[#F5F5F5] px-4 lg:px-20 py-4 md:py-8 lg:py-16'>
             <h1 className='text-center text-5xl font-bold'>
                 Our All Applications
             </h1>
@@ -30,12 +43,12 @@ const Apps = () => {
                         value={search}
                         onChange={(e) => { setSearch(e.target.value) }}
                         placeholder='Search Apps' />
-
                 </label>
-
             </div>
 
-            {searchedApps.length > 0 ? (
+            {(loading || isSearching) ? (
+                <Loading></Loading>
+            ) : searchedApps.length > 0 ? (
                 <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4 pt-6'>
                     {searchedApps.map(app => (<SingleCardApp key={app.id} app={app} />))}
                 </div>

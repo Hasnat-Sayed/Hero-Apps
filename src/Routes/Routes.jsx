@@ -4,12 +4,13 @@ import Home from "../Pages/Home";
 import AppDetails from "../Pages/AppDetails";
 import InstalledApps from "../Pages/InstalledApps";
 import Apps from "../Pages/Apps";
+import Errorpage from "../Pages/Errorpage";
 
 const router = createBrowserRouter([
     {
         path: "/",
         element: <Root></Root>,
-        errorElement:<p>sdfsdf</p>,
+        errorElement:<Errorpage></Errorpage>,
         children:[
             {
                 index: true,

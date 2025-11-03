@@ -6,7 +6,7 @@ import SingleCardApp from '../Components/SingleCardApp';
 
 const Home = () => {
 
-    const { apps, loading } = useApps()
+    const { apps } = useApps()
     const featuredApps = apps.slice(0, 8)
 
     return (
