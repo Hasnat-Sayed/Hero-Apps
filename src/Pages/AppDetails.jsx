@@ -34,7 +34,7 @@ const AppDetails = () => {
 
     const handleInstalled = (app) => {
         updateInstalled(app)
-        toast.success(`${app.title} has been Installed Successful`);
+        toast.success(`${app.title} has been Installed Successfully`);
         setAppInstalled(true);
     }
 
@@ -81,9 +81,9 @@ const AppDetails = () => {
 
                     </div>
 
-                    <div>
+                    <div className='mx-auto md:mx-0 w-fit'>
                         <button onClick={() => handleInstalled(app)}
-                            className={`px-5 py-3.5  rounded text-white text-xl font-semibold cursor-pointer ${appInstalled ? "bg-gray-500" : "bg-[#00d390]"}`} disabled={appInstalled}>
+                            className={`px-5 py-3.5 rounded text-white text-xl font-semibold cursor-pointer w-fit ${appInstalled ? "bg-gray-500" : "bg-[#00d390]"}`} disabled={appInstalled}>
                             {appInstalled
                                 ? "Installed"
                                 : `Install Now (${size} MB)`}
