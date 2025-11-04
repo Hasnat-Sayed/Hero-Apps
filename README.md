@@ -4,11 +4,12 @@ A modern, responsive web application built with React that showcases mobile appl
 
 ## 🌟 Live Demo
 
-[View Live Project](https://hero-apps-2099.netlify.app/) 
+[View Live Project](https://hero-apps-2099.netlify.app/)
 
 ## 🚀 Features
 
 ### Core Features
+
 - 🏠 **Home Page** with banner, statistics, and top apps showcase
 - 📱 **All Apps Page** with live search functionality
 - 📊 **App Details Page** with interactive review charts (Recharts)
@@ -22,6 +23,7 @@ A modern, responsive web application built with React that showcases mobile appl
 - 🍞 **Toast Notifications** for user actions
 
 ### Challenge Features (localStorage)
+
 - ✅ **Install/Uninstall Apps** - Persistent across sessions
 - 📦 **Installation Page** - View all installed apps
 - 🔄 **Dynamic Install Button** - Shows "Install" or "Installed" state
@@ -41,12 +43,14 @@ A modern, responsive web application built with React that showcases mobile appl
 ## 📦 Installation
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Steps
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/Hasnat-Sayed/Hero-Apps.git
 
@@ -54,19 +58,23 @@ cd Hero-Apps
 ```
 
 2. **Install dependencies**
+
 ```bash
 npm install
 ```
 
 3. **Run the development server**
+
 ```bash
 npm run dev
 ```
 
 4. **Build for production**
+
 ```bash
 npm run build
 ```
+
 ## 📁 Project Structure
 
 ```
@@ -89,7 +97,7 @@ Hero-Apps/
 │   │   ├── ErrorPage.jsx
 │   │   └── Root.jsx
 │   ├── Hooks/
-│   │   └── useApps.js   
+│   │   └── useApps.js
 │   ├── Utils/
 │   │   └── localStorage.js
 │   ├── App.jsx
@@ -98,8 +106,10 @@ Hero-Apps/
 ├── tailwind.config.js
 └── README.md
 ```
+
 ## 👨‍💻 Author
 
-**Your Name**
+**Hasnat Bin Sayed**
+
 - GitHub: [@Hasnat-Sayed](https://github.com/Hasnat-Sayed)
 - Facebook: [Hasnat Bin](https://www.facebook.com/hasnatbin.sayed1/)
