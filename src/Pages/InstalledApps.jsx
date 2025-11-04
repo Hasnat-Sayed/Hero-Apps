@@ -58,7 +58,7 @@ const InstalledApps = () => {
                     sorted.map(app => <InstalledCard key={app.id} app={app} handleRemove={handleRemove}></InstalledCard>)
                     :
                     <p className="col-span-4 text-center py-10 text-gray-500 text-3xl font-extrabold">
-                        No apps Insalled.
+                        No apps Installed.
                     </p>
             }
         </div>
